@@ -10,7 +10,7 @@ The implementation corresponds to the methodology described in the paper **“Re
 ## 📁 Project Structure
 
 ```text
-code_www26/
+code/
 ├── Code_LLM_Reasoning/
 │   ├── Example_for_Qwen.py
 │   ├── llm_reasoning_feature_extracting.py
