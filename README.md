@@ -224,11 +224,15 @@ Each fold has a mutually exclusive test set to ensure generalisation.
 If you use this code, please cite the corresponding paper:
 
 ```
-@article{yang2025ramf,
-  title={Reasoning-Aware Multimodal Fusion for Hateful Video Detection},
-  author={Yang, Shuonan and Chen, Tailin and Yue, Jiangbei and Cheng, Guangliang and Jiao, Jianbo and Fu, Zeyu},
-  journal={arXiv preprint arXiv:2512.02743},
-  year={2025}
+@article{
+yang2026reasoningaware,
+title={Reasoning-Aware Multimodal Fusion for Hateful Video Detection},
+author={Shuonan Yang and Tailin Chen and Jiangbei Yue and Guangliang Cheng and Jianbo Jiao and ZEYU FU},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=U9KnNiuMu1},
+note={}
 }
 ```
 
